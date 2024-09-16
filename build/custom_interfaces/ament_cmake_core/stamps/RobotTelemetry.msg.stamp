@@ -1,0 +1,4 @@
+int32 robot_id
+float32 battery_level
+geometry_msgs/Point position
+bool task_engaged

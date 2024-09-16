@@ -1,0 +1,3 @@
+geometry_msgs/Twist velocity_vector
+float32 power_level
+float32 altitude

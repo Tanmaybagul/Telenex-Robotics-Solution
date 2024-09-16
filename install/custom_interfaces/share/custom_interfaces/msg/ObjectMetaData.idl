@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_interfaces/msg/ObjectMetaData.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Quaternion.idl"
+#include "geometry_msgs/msg/Vector3.idl"
+
+module custom_interfaces {
+  module msg {
+    struct ObjectMetaData {
+      int32 object_id;
+
+      string object_type;
+
+      geometry_msgs::msg::Vector3 position;
+
+      geometry_msgs::msg::Quaternion orientation;
+
+      geometry_msgs::msg::Vector3 size;
+
+      boolean graspable;
+    };
+  };
+};

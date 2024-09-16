@@ -1,0 +1,4 @@
+[console_scripts]
+drone_telemetry_publisher = problem2.drone_telemetry_pub:main
+drone_telemetry_subscriber = problem2.drone_telemetry_sub:main
+

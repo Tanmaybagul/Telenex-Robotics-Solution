@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/problem2/problem2.egg-info/PKG-INFO
+../../build/problem2/problem2.egg-info/SOURCES.txt
+../../build/problem2/problem2.egg-info/dependency_links.txt
+../../build/problem2/problem2.egg-info/entry_points.txt
+../../build/problem2/problem2.egg-info/requires.txt
+../../build/problem2/problem2.egg-info/top_level.txt
+../../build/problem2/problem2.egg-info/zip-safe
+problem2/__init__.py
+problem2/drone_telemetry_pub.py
+problem2/drone_telemetry_sub.py
+resource/problem2
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

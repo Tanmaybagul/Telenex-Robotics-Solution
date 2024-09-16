@@ -1,0 +1,4 @@
+[console_scripts]
+robotic_arm_node = problem3.robotic_arm_node:main
+vision_processing_node = problem3.vision_processing_node:main
+

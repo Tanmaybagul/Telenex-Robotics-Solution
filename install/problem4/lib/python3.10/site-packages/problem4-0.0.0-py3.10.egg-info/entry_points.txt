@@ -1,0 +1,4 @@
+[console_scripts]
+farm_management_client = problem4.client_node:main
+farm_management_server = problem4.service_node:main
+

@@ -1,0 +1,41 @@
+[0.978s] Invoking command in '/home/tanmay/Telenex-Robotics-Solution/src/problem4': PYTHONPATH=/home/tanmay/Telenex-Robotics-Solution/build/problem4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/problem4 build --build-base /home/tanmay/Telenex-Robotics-Solution/build/problem4/build install --record /home/tanmay/Telenex-Robotics-Solution/build/problem4/install.log --single-version-externally-managed install_data
+[1.150s] running egg_info
+[1.150s] creating ../../build/problem4/problem4.egg-info
+[1.150s] writing ../../build/problem4/problem4.egg-info/PKG-INFO
+[1.150s] writing dependency_links to ../../build/problem4/problem4.egg-info/dependency_links.txt
+[1.150s] writing entry points to ../../build/problem4/problem4.egg-info/entry_points.txt
+[1.151s] writing requirements to ../../build/problem4/problem4.egg-info/requires.txt
+[1.151s] writing top-level names to ../../build/problem4/problem4.egg-info/top_level.txt
+[1.151s] writing manifest file '../../build/problem4/problem4.egg-info/SOURCES.txt'
+[1.152s] reading manifest file '../../build/problem4/problem4.egg-info/SOURCES.txt'
+[1.152s] writing manifest file '../../build/problem4/problem4.egg-info/SOURCES.txt'
+[1.153s] running build
+[1.153s] running build_py
+[1.153s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem4/build
+[1.153s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib
+[1.153s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+[1.153s] copying problem4/service_node.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+[1.153s] copying problem4/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+[1.153s] copying problem4/client_node.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+[1.154s] running install
+[1.154s] running install_lib
+[1.155s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+[1.155s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4/service_node.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+[1.155s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+[1.155s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4/client_node.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+[1.155s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4/service_node.py to service_node.cpython-310.pyc
+[1.156s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4/__init__.py to __init__.cpython-310.pyc
+[1.156s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4/client_node.py to client_node.cpython-310.pyc
+[1.157s] running install_data
+[1.157s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index
+[1.157s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index/resource_index
+[1.157s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index/resource_index/packages
+[1.157s] copying resource/problem4 -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index/resource_index/packages
+[1.157s] copying package.xml -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/problem4
+[1.157s] running install_egg_info
+[1.159s] Copying ../../build/problem4/problem4.egg-info to /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4-0.0.0-py3.10.egg-info
+[1.160s] running install_scripts
+[1.176s] Installing farm_management_client script to /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/problem4
+[1.176s] Installing farm_management_server script to /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/problem4
+[1.176s] writing list of installed files to '/home/tanmay/Telenex-Robotics-Solution/build/problem4/install.log'
+[1.200s] Invoked command in '/home/tanmay/Telenex-Robotics-Solution/src/problem4' returned '0': PYTHONPATH=/home/tanmay/Telenex-Robotics-Solution/build/problem4/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/problem4 build --build-base /home/tanmay/Telenex-Robotics-Solution/build/problem4/build install --record /home/tanmay/Telenex-Robotics-Solution/build/problem4/install.log --single-version-externally-managed install_data

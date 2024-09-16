@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_interfaces/msg/DroneTelemetry.msg
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Twist.idl"
+
+module custom_interfaces {
+  module msg {
+    struct DroneTelemetry {
+      geometry_msgs::msg::Twist velocity_vector;
+
+      float power_level;
+
+      float altitude;
+    };
+  };
+};

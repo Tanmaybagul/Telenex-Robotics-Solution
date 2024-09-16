@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/problem3/problem3.egg-info/PKG-INFO
+../../build/problem3/problem3.egg-info/SOURCES.txt
+../../build/problem3/problem3.egg-info/dependency_links.txt
+../../build/problem3/problem3.egg-info/entry_points.txt
+../../build/problem3/problem3.egg-info/requires.txt
+../../build/problem3/problem3.egg-info/top_level.txt
+../../build/problem3/problem3.egg-info/zip-safe
+problem3/__init__.py
+problem3/robotic_arm_node.py
+problem3/vision_processing_node.py
+resource/problem3
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

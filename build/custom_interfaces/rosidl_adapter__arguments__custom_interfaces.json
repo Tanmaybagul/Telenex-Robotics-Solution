@@ -1,0 +1,9 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/tanmay/Telenex-Robotics-Solution/src/custom_interfaces:msg/RobotTelemetry.msg",
+    "/home/tanmay/Telenex-Robotics-Solution/src/custom_interfaces:msg/DroneTelemetry.msg",
+    "/home/tanmay/Telenex-Robotics-Solution/src/custom_interfaces:msg/ObjectMetaData.msg",
+    "/home/tanmay/Telenex-Robotics-Solution/src/custom_interfaces:srv/FarmManagement.srv"
+  ]
+}

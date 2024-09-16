@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from custom_interfaces/srv/FarmManagement.srv
+// generated code does not contain a copyright notice
+
+
+module custom_interfaces {
+  module srv {
+    struct FarmManagement_Request {
+      int32 robot_id;
+
+      float crop_yield;
+
+      string status;
+    };
+    struct FarmManagement_Response {
+      string response;
+    };
+  };
+};

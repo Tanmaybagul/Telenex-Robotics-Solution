@@ -1,0 +1,6 @@
+[console_scripts]
+robot_telemetry_publisher = problem1.robot_telemetry_pub:main
+robot_telemetry_subscriber = problem1.robot_telemetry_sub:main
+robot_telemetry_trial_pub = problem1.robot2_pub:main
+robot_telemetry_trial_sub = problem1.robot2_sub:main
+

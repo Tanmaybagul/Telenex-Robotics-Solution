@@ -1,0 +1,3 @@
+int32 robot_id
+float32 crop_yield
+string status

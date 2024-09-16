@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/tanmay/telenex_robotics_assignments/install/ROS2_Messages/lib/python3.10/site-packages",
+        "/home/tanmay/colcon_ws/install/ur5_control/lib/python3.10/site-packages",
+        "/home/tanmay/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/tanmay/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tanmay/telenex_robotics_assignments/install/ROS2_Messages/lib/python3.10/site-packages",
+        "/home/tanmay/colcon_ws/install/ur5_control/lib/python3.10/site-packages",
+        "/home/tanmay/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/tanmay/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

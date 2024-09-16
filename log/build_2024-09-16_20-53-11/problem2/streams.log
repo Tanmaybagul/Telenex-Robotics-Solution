@@ -1,0 +1,41 @@
+[0.992s] Invoking command in '/home/tanmay/Telenex-Robotics-Solution/src/problem2': PYTHONPATH=/home/tanmay/Telenex-Robotics-Solution/build/problem2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/problem2 build --build-base /home/tanmay/Telenex-Robotics-Solution/build/problem2/build install --record /home/tanmay/Telenex-Robotics-Solution/build/problem2/install.log --single-version-externally-managed install_data
+[1.164s] running egg_info
+[1.165s] creating ../../build/problem2/problem2.egg-info
+[1.165s] writing ../../build/problem2/problem2.egg-info/PKG-INFO
+[1.165s] writing dependency_links to ../../build/problem2/problem2.egg-info/dependency_links.txt
+[1.165s] writing entry points to ../../build/problem2/problem2.egg-info/entry_points.txt
+[1.165s] writing requirements to ../../build/problem2/problem2.egg-info/requires.txt
+[1.165s] writing top-level names to ../../build/problem2/problem2.egg-info/top_level.txt
+[1.165s] writing manifest file '../../build/problem2/problem2.egg-info/SOURCES.txt'
+[1.166s] reading manifest file '../../build/problem2/problem2.egg-info/SOURCES.txt'
+[1.167s] writing manifest file '../../build/problem2/problem2.egg-info/SOURCES.txt'
+[1.167s] running build
+[1.167s] running build_py
+[1.167s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem2/build
+[1.167s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib
+[1.167s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib/problem2
+[1.167s] copying problem2/drone_telemetry_pub.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib/problem2
+[1.167s] copying problem2/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib/problem2
+[1.167s] copying problem2/drone_telemetry_sub.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib/problem2
+[1.168s] running install
+[1.168s] running install_lib
+[1.169s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2
+[1.169s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib/problem2/drone_telemetry_pub.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2
+[1.169s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib/problem2/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2
+[1.169s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem2/build/lib/problem2/drone_telemetry_sub.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2
+[1.170s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2/drone_telemetry_pub.py to drone_telemetry_pub.cpython-310.pyc
+[1.170s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2/__init__.py to __init__.cpython-310.pyc
+[1.170s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2/drone_telemetry_sub.py to drone_telemetry_sub.cpython-310.pyc
+[1.170s] running install_data
+[1.170s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem2/share/ament_index
+[1.170s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem2/share/ament_index/resource_index
+[1.170s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem2/share/ament_index/resource_index/packages
+[1.170s] copying resource/problem2 -> /home/tanmay/Telenex-Robotics-Solution/install/problem2/share/ament_index/resource_index/packages
+[1.170s] copying package.xml -> /home/tanmay/Telenex-Robotics-Solution/install/problem2/share/problem2
+[1.171s] running install_egg_info
+[1.172s] Copying ../../build/problem2/problem2.egg-info to /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages/problem2-0.0.0-py3.10.egg-info
+[1.172s] running install_scripts
+[1.187s] Installing drone_telemetry_publisher script to /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/problem2
+[1.187s] Installing drone_telemetry_subscriber script to /home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/problem2
+[1.187s] writing list of installed files to '/home/tanmay/Telenex-Robotics-Solution/build/problem2/install.log'
+[1.218s] Invoked command in '/home/tanmay/Telenex-Robotics-Solution/src/problem2' returned '0': PYTHONPATH=/home/tanmay/Telenex-Robotics-Solution/build/problem2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanmay/Telenex-Robotics-Solution/install/problem2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/problem2 build --build-base /home/tanmay/Telenex-Robotics-Solution/build/problem2/build install --record /home/tanmay/Telenex-Robotics-Solution/build/problem2/install.log --single-version-externally-managed install_data

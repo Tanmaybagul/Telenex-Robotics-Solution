@@ -1,0 +1,47 @@
+running egg_info
+creating ../../build/problem1/problem1.egg-info
+writing ../../build/problem1/problem1.egg-info/PKG-INFO
+writing dependency_links to ../../build/problem1/problem1.egg-info/dependency_links.txt
+writing entry points to ../../build/problem1/problem1.egg-info/entry_points.txt
+writing requirements to ../../build/problem1/problem1.egg-info/requires.txt
+writing top-level names to ../../build/problem1/problem1.egg-info/top_level.txt
+writing manifest file '../../build/problem1/problem1.egg-info/SOURCES.txt'
+reading manifest file '../../build/problem1/problem1.egg-info/SOURCES.txt'
+writing manifest file '../../build/problem1/problem1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tanmay/Telenex-Robotics-Solution/build/problem1/build
+creating /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib
+creating /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1
+copying problem1/robot2_sub.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1
+copying problem1/robot_telemetry_sub.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1
+copying problem1/robot_telemetry_pub.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1
+copying problem1/robot2_pub.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1
+copying problem1/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1
+running install
+running install_lib
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1/robot2_sub.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1/robot_telemetry_sub.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1/robot_telemetry_pub.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1/robot2_pub.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem1/build/lib/problem1/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1/robot2_sub.py to robot2_sub.cpython-310.pyc
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1/robot_telemetry_sub.py to robot_telemetry_sub.cpython-310.pyc
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1/robot_telemetry_pub.py to robot_telemetry_pub.cpython-310.pyc
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1/robot2_pub.py to robot2_pub.cpython-310.pyc
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem1/share/ament_index
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem1/share/ament_index/resource_index
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem1/share/ament_index/resource_index/packages
+copying resource/problem1 -> /home/tanmay/Telenex-Robotics-Solution/install/problem1/share/ament_index/resource_index/packages
+copying package.xml -> /home/tanmay/Telenex-Robotics-Solution/install/problem1/share/problem1
+running install_egg_info
+Copying ../../build/problem1/problem1.egg-info to /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/python3.10/site-packages/problem1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing robot_telemetry_publisher script to /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/problem1
+Installing robot_telemetry_subscriber script to /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/problem1
+Installing robot_telemetry_trial_pub script to /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/problem1
+Installing robot_telemetry_trial_sub script to /home/tanmay/Telenex-Robotics-Solution/install/problem1/lib/problem1
+writing list of installed files to '/home/tanmay/Telenex-Robotics-Solution/build/problem1/install.log'

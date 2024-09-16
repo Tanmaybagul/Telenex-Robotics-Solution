@@ -1,0 +1,41 @@
+[0.984s] Invoking command in '/home/tanmay/Telenex-Robotics-Solution/src/problem3': PYTHONPATH=/home/tanmay/Telenex-Robotics-Solution/build/problem3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/problem3 build --build-base /home/tanmay/Telenex-Robotics-Solution/build/problem3/build install --record /home/tanmay/Telenex-Robotics-Solution/build/problem3/install.log --single-version-externally-managed install_data
+[1.159s] running egg_info
+[1.160s] creating ../../build/problem3/problem3.egg-info
+[1.160s] writing ../../build/problem3/problem3.egg-info/PKG-INFO
+[1.160s] writing dependency_links to ../../build/problem3/problem3.egg-info/dependency_links.txt
+[1.160s] writing entry points to ../../build/problem3/problem3.egg-info/entry_points.txt
+[1.160s] writing requirements to ../../build/problem3/problem3.egg-info/requires.txt
+[1.160s] writing top-level names to ../../build/problem3/problem3.egg-info/top_level.txt
+[1.161s] writing manifest file '../../build/problem3/problem3.egg-info/SOURCES.txt'
+[1.162s] reading manifest file '../../build/problem3/problem3.egg-info/SOURCES.txt'
+[1.162s] writing manifest file '../../build/problem3/problem3.egg-info/SOURCES.txt'
+[1.162s] running build
+[1.162s] running build_py
+[1.162s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem3/build
+[1.162s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib
+[1.162s] creating /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib/problem3
+[1.162s] copying problem3/vision_processing_node.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib/problem3
+[1.163s] copying problem3/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib/problem3
+[1.163s] copying problem3/robotic_arm_node.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib/problem3
+[1.164s] running install
+[1.164s] running install_lib
+[1.164s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3
+[1.164s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib/problem3/vision_processing_node.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3
+[1.164s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib/problem3/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3
+[1.164s] copying /home/tanmay/Telenex-Robotics-Solution/build/problem3/build/lib/problem3/robotic_arm_node.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3
+[1.165s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3/vision_processing_node.py to vision_processing_node.cpython-310.pyc
+[1.165s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3/__init__.py to __init__.cpython-310.pyc
+[1.166s] byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3/robotic_arm_node.py to robotic_arm_node.cpython-310.pyc
+[1.166s] running install_data
+[1.166s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem3/share/ament_index
+[1.166s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem3/share/ament_index/resource_index
+[1.166s] creating /home/tanmay/Telenex-Robotics-Solution/install/problem3/share/ament_index/resource_index/packages
+[1.166s] copying resource/problem3 -> /home/tanmay/Telenex-Robotics-Solution/install/problem3/share/ament_index/resource_index/packages
+[1.166s] copying package.xml -> /home/tanmay/Telenex-Robotics-Solution/install/problem3/share/problem3
+[1.166s] running install_egg_info
+[1.167s] Copying ../../build/problem3/problem3.egg-info to /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages/problem3-0.0.0-py3.10.egg-info
+[1.168s] running install_scripts
+[1.183s] Installing robotic_arm_node script to /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/problem3
+[1.183s] Installing vision_processing_node script to /home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/problem3
+[1.183s] writing list of installed files to '/home/tanmay/Telenex-Robotics-Solution/build/problem3/install.log'
+[1.219s] Invoked command in '/home/tanmay/Telenex-Robotics-Solution/src/problem3' returned '0': PYTHONPATH=/home/tanmay/Telenex-Robotics-Solution/build/problem3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanmay/Telenex-Robotics-Solution/install/problem3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/problem3 build --build-base /home/tanmay/Telenex-Robotics-Solution/build/problem3/build install --record /home/tanmay/Telenex-Robotics-Solution/build/problem3/install.log --single-version-externally-managed install_data

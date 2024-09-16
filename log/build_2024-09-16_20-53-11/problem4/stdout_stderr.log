@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/problem4/problem4.egg-info
+writing ../../build/problem4/problem4.egg-info/PKG-INFO
+writing dependency_links to ../../build/problem4/problem4.egg-info/dependency_links.txt
+writing entry points to ../../build/problem4/problem4.egg-info/entry_points.txt
+writing requirements to ../../build/problem4/problem4.egg-info/requires.txt
+writing top-level names to ../../build/problem4/problem4.egg-info/top_level.txt
+writing manifest file '../../build/problem4/problem4.egg-info/SOURCES.txt'
+reading manifest file '../../build/problem4/problem4.egg-info/SOURCES.txt'
+writing manifest file '../../build/problem4/problem4.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/tanmay/Telenex-Robotics-Solution/build/problem4/build
+creating /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib
+creating /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+copying problem4/service_node.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+copying problem4/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+copying problem4/client_node.py -> /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4
+running install
+running install_lib
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4/service_node.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4/__init__.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+copying /home/tanmay/Telenex-Robotics-Solution/build/problem4/build/lib/problem4/client_node.py -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4/service_node.py to service_node.cpython-310.pyc
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4/client_node.py to client_node.cpython-310.pyc
+running install_data
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index/resource_index
+creating /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index/resource_index/packages
+copying resource/problem4 -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/ament_index/resource_index/packages
+copying package.xml -> /home/tanmay/Telenex-Robotics-Solution/install/problem4/share/problem4
+running install_egg_info
+Copying ../../build/problem4/problem4.egg-info to /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/python3.10/site-packages/problem4-0.0.0-py3.10.egg-info
+running install_scripts
+Installing farm_management_client script to /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/problem4
+Installing farm_management_server script to /home/tanmay/Telenex-Robotics-Solution/install/problem4/lib/problem4
+writing list of installed files to '/home/tanmay/Telenex-Robotics-Solution/build/problem4/install.log'
